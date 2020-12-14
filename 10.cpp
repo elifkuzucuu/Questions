@@ -53,8 +53,10 @@ int size =0;
 			if(max<counter)
 			max=counter;
 			else
+			{
 			max=max;
 			counter=0;
+			}
 		}
 	}
 	

@@ -27,7 +27,7 @@ int main()
 		
 		av=total/(size+1);
 	
-	for(i=0;i<5;i++)
+	for(i=0;i<size+1;i++)
 	{
 		if(array[i]<av)
 		counter++;
